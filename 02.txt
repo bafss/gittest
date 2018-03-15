@@ -1,3 +1,0 @@
-啊啊啊啊
-
-添加内容在.gitignnore 使用 git rm -rf --cached .
