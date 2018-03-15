@@ -1,5 +1,5 @@
 1
-1
+1   添加内容在.gitignnore 使用 git rm -rf --cached .
 1
 1
 1
